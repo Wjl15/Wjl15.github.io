@@ -18,4 +18,12 @@
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>hello</title>
+    <url>/2021/09/16/hello/</url>
+    <content><![CDATA[<h2 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h2>]]></content>
+      <tags>
+        <tag>test hello</tag>
+      </tags>
+  </entry>
 </search>
